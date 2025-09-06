@@ -1,0 +1,12 @@
+streamlit
+langchain
+langgraph
+openai
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
+twilio
+sendgrid
+pandas
+sqlalchemy
+python-dotenv

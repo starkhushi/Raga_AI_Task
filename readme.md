@@ -6,18 +6,16 @@ A **Streamlit-based Medical Appointment Scheduler** designed to streamline booki
 ## 🖼️ Screenshots
 
 **1. Appointment Form**  
-![Appointment Form](screenshots/form.png)
+![Appointment Form](https://github.com/starkhushi/Raga_AI_Task/blob/main/screenshot/form.png)
 
 **2. Appointment Confirmation**  
-![Confirmation](screenshots/confirmation.png)
+![Booking Confirmation](https://github.com/starkhushi/Raga_AI_Task/blob/main/screenshot/booking_confirmation.jpg)
 
 ---
 
-## 🎬 Demo Video
+## 🎥 Demo Video
 
-Watch the demo of the application in action:
-
-[📽️ View Demo on Google Drive]([https://drive.google.com/file/d/your-demo-video-id/view?usp=sharing](https://drive.google.com/file/d/1rkHlmzFSIs5SZPE__7zMy2FLbgWY7XBp/view?usp=sharing))
+Watch the full demo [here](https://drive.google.com/file/d/1rkHlmzFSIs5SZPE__7zMy2FLbgWY7XBp/view?usp=sharing).
 
 ---
 ## 🎯 Features
@@ -64,3 +62,4 @@ Watch the demo of the application in action:
 ---
 
 ## Developed with ❤️ by Khushi
+
